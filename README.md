@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse 👋
+### Hi there, I'm Naiwrit 👋
 
 ## I'm a CSE Undergraduate student!!
 
