@@ -34,6 +34,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
----
+
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://www.linkedin.com/in/naiwrit-mullick-0380a41b6/: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[linkedin]: https://www.linkedin.com/in/naiwrit-mullick-0380a41b6/
