@@ -28,5 +28,5 @@
 <img align="left" alt="Vim" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" />
 <br />
 
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/shreeman_naiwrit/
 [linkedin]: https://www.linkedin.com/in/naiwrit-mullick-0380a41b6/
